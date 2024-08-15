@@ -34,7 +34,7 @@ In this deliverable, I am using weather data skills to plan future vacations by 
 
 *A map is created that displays a point for every city in the city_data_df DataFrame. The size of the point is the humidity in each city.
 
-The search was narrowed down to find the ideal weather condition as follows:
+The search was narrowed down to find the ideal weather conditions as follows:
 
 -A max temperature lower than 27 degrees but higher than 21
 
