@@ -28,14 +28,13 @@ Latitude vs. Wind Speed
 2)The second part of the project is to plan a vacation according to preferred weather and find the nearest hotel to the city.
 
 ***VacationPy****
+
 In this deliverable, I am using weather data skills to plan future vacations by using Jupyter notebook, the geoViews Python library, and the Geoapify API. 
 
 
 *A map is created that displays a point for every city in the city_data_df DataFrame. The size of the point is the humidity in each city.
 
-Narrow down the search to find the ideal weather condition.
-
-*Find the ideal location to vacation that meets the following requirements:
+The search was narrowed down to find the ideal weather condition as follows:
 
 -A max temperature lower than 27 degrees but higher than 21
 
