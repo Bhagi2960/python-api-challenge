@@ -1,6 +1,6 @@
 ***WeatherPy and VacationPy****
 
-1)The purpose of the weatherpy project is to visualize the weather of over 500 cities of varying distances from the equator to analyze the relationship between weather and latitiude.
+1)The purpose of the WeatherPy project is to visualize the weather of over 500 cities of varying distances from the equator to analyze the relationship between weather and latitiude.
 
 *The purpose of the first part of the project is to create a Python script to visualize the weather of over 500 cities of varying distances from the equator. The citipy Python library and the OpenWeatherMap API were used for this purpose.
 
