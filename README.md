@@ -27,7 +27,7 @@ Latitude vs. Wind Speed
 
 2)The second part of the project is to plan a vacation according to preferred weather and find the nearest hotel to the city.
 
-***VacationPy
+***VacationPy****
 In this deliverable, I am using weather data skills to plan future vacations by using Jupyter notebook, the geoViews Python library, and the Geoapify API. 
 
 
