@@ -29,7 +29,7 @@ Latitude vs. Wind Speed
 
 ***VacationPy****
 
-In this deliverable, I am using weather data skills to plan future vacations by using Jupyter notebook, the geoViews Python library, and the Geoapify API. 
+In this deliverable, I am using the Geoapify API and the geoviews python library to plan future vacations and to find the nearest hotel within 10000 meters of the ideal location.
 
 
 *A map is created that displays a point for every city in the city_data_df DataFrame. The size of the point is the humidity in each city.
